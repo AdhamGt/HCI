@@ -1,0 +1,14 @@
+C:\Users\manal\Downloads\Compressed\TUIO_CSHARP\bin\Debug\TuioDemo.exe
+C:\Users\manal\Downloads\Compressed\TUIO_CSHARP\bin\Debug\TuioDemo.pdb
+C:\Users\manal\Downloads\Compressed\TUIO_CSHARP\obj\Debug\TUIO_DEMO.csprojAssemblyReference.cache
+C:\Users\manal\Downloads\Compressed\TUIO_CSHARP\obj\Debug\TUIO_DEMO.csproj.CoreCompileInputs.cache
+C:\Users\manal\Downloads\Compressed\TUIO_CSHARP\obj\Debug\TuioDemo.exe
+C:\Users\manal\Downloads\Compressed\TUIO_CSHARP\obj\Debug\TuioDemo.pdb
+C:\Users\adham\Desktop\TUIO_CSHARP\obj\Debug\TuioDemo.exe
+C:\Users\adham\Desktop\TUIO_CSHARP\obj\Debug\TuioDemo.pdb
+C:\Users\adham\Desktop\TUIO_CSHARP\bin\Debug\TuioDemo.exe.config
+C:\Users\adham\Desktop\TUIO_CSHARP\bin\Debug\TuioDemo.exe
+C:\Users\adham\Desktop\TUIO_CSHARP\bin\Debug\TuioDemo.pdb
+C:\Users\adham\Desktop\TUIO_CSHARP\bin\Debug\Emgu.CV.World.dll
+C:\Users\adham\Desktop\TUIO_CSHARP\bin\Debug\Emgu.CV.World.xml
+C:\Users\adham\Desktop\TUIO_CSHARP\obj\Debug\TUIO_DEMO.csprojResolveAssemblyReference.cache
